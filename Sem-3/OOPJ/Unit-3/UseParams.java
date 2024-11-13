@@ -1,6 +1,6 @@
 import java.applet.Applet;  
 import java.awt.Graphics;  
-  
+// Using Parameteres 
 public class UseParam extends Applet{  
   public void paint(Graphics g){  
     String str=getParameter("msg");  
